@@ -502,7 +502,6 @@ button.hamburger-menu i.icon-close {
     }
     #statistic .wrapper div {
         display: flex;
-        margin-left: 100px;
     }
     #statistic .wrapper div small {
         font-size: 1.5rem;
